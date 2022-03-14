@@ -1,0 +1,12 @@
+{
+    "locations" : [
+        {
+            "id":1,
+            "name":"Idukki Dam",
+            "latitude":9.843545198121454,
+            "longitude": 76.97629018367331,
+            "dmri":5.7,
+            "safezone":0
+        }
+    ]
+}
